@@ -1,0 +1,7 @@
+An autonomous agent is an advanced AI system that can perceive its environment, make complex decisions, plan multi-step actions, and execute tasks independently to achieve a goal, without constant human intervention, learning and adapting as it goes, unlike simpler bots that follow rigid "if-then" rules. These agents use AI like machine learning to understand context, handle uncertainty, and automate complex workflows in various fields. 
+Key Characteristics
+Independence: Operates on its own to achieve objectives, breaking down big goals into smaller tasks.
+Perception & Action: Gathers data (perceives), reasons about it (plans), and then acts (executes).
+Learning & Adaptation: Improves performance over time by learning from experience and adapting to new situations.
+Contextual Understanding: Goes beyond simple rules to grasp the meaning behind inputs, often using Natural Language Processing (NLP). 
+This video explains the continuous loop of an autonomous agent's operation:
